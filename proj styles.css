@@ -1,0 +1,57 @@
+.left {
+	position: absolute;
+  margin-left: 0px;
+  width: 33.33%;
+  padding: auto;
+}
+
+.leftcaption {
+	position: absolute;
+  left: 70px;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.center {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 14.5%;
+  padding: auto;
+}
+
+.centercaption {
+  text-align: center;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.right {
+	position: absolute;
+  right: 10px;
+  top: 50px;
+  width: 12%;
+  padding: 10px;
+}
+
+.rightcaption {
+	position: absolute;
+  right: 60px;
+	color: whitesmoke;
+  font-family: sans-serif;
+}
+
+body {
+	background: #1F262A;
+}
+
+h1 {
+	color: whitesmoke;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.black {
+		color: black;
+		font-weight: bold;
+	}
